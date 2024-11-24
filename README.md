@@ -1,3 +1,5 @@
+改自 jeefies，更改了API
+
 # LS-PaintBoard API
 
 采用 Golang 与协程技术，token 利用率达到了 98% 左右。
